@@ -2,7 +2,7 @@
 # SECTION 1: VARIABLES - Storing and using values
 # -----------------------------------------------
 
-# name = "Jordan"
+# name = "Oscar"
 # age = 13
 # height_in_cm = 160.5
 # likes_pizza = True
@@ -104,7 +104,7 @@
 # SECTION 10: LOOPS + LISTS
 # -----------------------------------------------
 
-# names = ["Alice", "Bob", "Charlie"]
+# names = ["Oscar", "Bob", "Charlie"]
 # for name in names:
 #     print("Hi", name)
 
